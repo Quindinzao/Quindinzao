@@ -2,7 +2,7 @@
 
 - 🚀 I work with FullStack
 - 💡 I'm in the continuous study of React, React Native, TypeScript, Node.js and their derived technologies
-- 📘 My favorite lenguage is TypeScript
+- 📘 My favorite language is TypeScript
 - 📚 My codes and my work environment are very organized
 - 🖤 I love developing websites, apps and systems in general
 
