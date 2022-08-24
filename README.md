@@ -8,6 +8,14 @@
 
 <br />
 
+### 🔎 Search index:
+- react: React (Including projects that contain API and Front-End)
+- rn: React Native
+- expo: React Native projects that use Expo
+- android: Java and Kotlin
+- ios: Swift and Objective-C
+- api: Node.js, Spring Boot, etc
+
 <div align="center">
   <a href="https://github.com/Quindinzao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quindinzao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -36,11 +44,3 @@
   <a href = "mailto:devjaodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-66bb741b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-### 🔎 Search index:
-- react: React (Including projects that contain API and Front-End)
-- rn: React Native
-- expo: React Native projects that use Expo
-- android: Java and Kotlin
-- ios: Swift and Objective-C
-- api: Node.js, Spring Boot, etc
