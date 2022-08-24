@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fernandes-66bb741b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#### Search index:
+### 🔎 Search index:
 - react: React (Including projects that contain API and Front-End)
 - rn: React Native
 - expo: React Native projects that use Expo
