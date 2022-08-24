@@ -6,8 +6,6 @@
 - 📚 My codes and my work environment are very organized
 - 🖤 I love developing websites, apps and systems in general
 
-<br />
-
 ### 🔎 Search index:
 - react: React (Including projects that contain API and Front-End)
 - rn: React Native
@@ -15,6 +13,8 @@
 - android: Java and Kotlin
 - ios: Swift and Objective-C
 - api: Node.js, Spring Boot, etc
+
+<br />
 
 <div align="center">
   <a href="https://github.com/Quindinzao">
