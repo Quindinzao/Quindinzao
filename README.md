@@ -13,6 +13,7 @@
 - android: Java and Kotlin
 - ios: Swift and Objective-C
 - api: Node.js, Spring Boot, etc
+- py: Python
 
 <br />
 
