@@ -1,7 +1,7 @@
 ### 🖖 Hi, my name is João
 
-- 🚀 I work with FullStack
-- 💡 I'm in the continuous study of React, React Native, TypeScript, Node.js and their derived technologies
+- 🚀 I work with mobile apps
+- 💡 I'm in the continuous study of React Native, SwiftUI, Kotlin and their derived technologies
 - 📘 My favorite language is TypeScript
 - 📚 My codes and my work environment are very organized
 - 🖤 I love developing websites, apps and systems in general
@@ -13,8 +13,7 @@
 - android: Java and Kotlin
 - ios: Swift and Objective-C
 - api: Node.js, Spring Boot, etc
-- py: Python
-- bf - Backend and Frontend in one project
+- py: Python, Django and others projects that main language is Python
 
 <br />
   
