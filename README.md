@@ -23,20 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quindinzao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quindinzao&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<br />
-<br />
-  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" align="center" height="48" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="react" align="center" height="48" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="react" align="center" height="48" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" alt="react" align="center" height="48" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="react" align="center" height="48" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="react" align="center" height="48" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="react" align="center" height="48" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="react" align="center" height="48" width="48" />
-</div>
 
 <br />
 <br />
