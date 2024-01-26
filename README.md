@@ -1,10 +1,10 @@
 ### 🖖 Hi, my name is João
 
 - 🚀 I work with mobile apps
-- 💡 I'm in the continuous study of React Native, SwiftUI, Kotlin and their derived technologies
-- 📘 My favorite language is TypeScript
+- 💡 I'm in the continuous study of React Native, SwiftUI, Kotlin, Java and their derived technologies
+- 📘 My favorite language is Javascript
 - 📚 My codes and my work environment are very organized
-- 🖤 I love developing websites, apps and systems in general
+- 🖤 I love developing apps and systems in general
 
 ### 🔎 Search index:
 - react: React (Including projects that contain API and Front-End)
