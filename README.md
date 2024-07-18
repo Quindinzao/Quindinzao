@@ -1,7 +1,7 @@
 ### 🖖 Hi, my name is João
 
 - 🚀 I work with mobile apps
-- 💡 I'm in the continuous study of React Native, SwiftUI, Kotlin, Java and their derived technologies
+- 💡 I'm in the continuous study of React Native, Swift, Kotlin, Java and their derived technologies
 - 📘 My favorite language is Javascript
 - 📚 My codes and my work environment are very organized
 - 🖤 I love developing apps and systems in general
